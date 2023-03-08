@@ -78,8 +78,15 @@ h1 {
     color: white;
 }
 
+#servicos {
+    background: white;  
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
-
+.albuns {
+    padding: 10px 0;
+}
 /*
 * Media queries - responsive */
 /* Extra small devices (portrait phones, less than 576px) */
